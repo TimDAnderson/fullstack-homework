@@ -2,6 +2,7 @@
 node_modules
 
 heartbeatmanager/frontend/static/frontend/bundle.js
+heartbeatmanager/frontend/static/frontend/main.js
 
 # Django #
 *.log

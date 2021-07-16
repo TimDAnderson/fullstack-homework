@@ -16,7 +16,7 @@ module.exports = {
     ]
   },
   output: {
-    filename: 'bundle.js',
+    filename: 'main.js',
     // eslint-disable-next-line no-undef
     path: __dirname + '/heartbeatmanager/frontend/static/frontend'
   }
