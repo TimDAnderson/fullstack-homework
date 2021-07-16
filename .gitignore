@@ -1,6 +1,8 @@
 # Ignore node modules
 node_modules
 
+heartbeatmanager/frontend/static/frontend/bundle.js
+
 # Django #
 *.log
 *.pot
