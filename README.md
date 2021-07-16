@@ -92,3 +92,8 @@ Available at http://localhost:8000
 
 ## Conclusion
 
+This was a fun assignment.  I'm glad I was able to highlight some of my Django backend and React front end skills.  I'm particularly proud of the seperation of concerns through out the repository.  The files are organized so that another engineer could hop in and follow the same MVC pattern.
+
+If I had more time I would have liked have used PostgreSQL.  I could have created a schema for a sensor table and a heartbeats table.  This would have allowed me to look at the serial number of the incoming POST request (heartbeat) and validate it prior to storing in the database.  
+
+I also would have liked to add a graph with occupation percentage that updated once a second.  The data is already available to the client but I did not have time to render a graph.  
